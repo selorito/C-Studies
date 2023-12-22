@@ -3,7 +3,7 @@
 
 int main(){
 	
-//kullanıcının girdiği açılara göre hangi üçgen olduğunu belirten program
+//kullanÄ±cÄ±nÄ±n girdiÄŸi aÃ§Ä±lara gÃ¶re hangi Ã¼Ã§gen olduÄŸunu belirten program
 
 int aci1,aci2,aci3,toplam=0;
 int kenar1,kenar2,kenar3;
@@ -38,24 +38,10 @@ else if (aci1<90 ||aci2<90 ||aci3<90){
 }
 else{
 	
-	printf("Uceniniz dik acili ucgendir");
+	printf("Ucgeniniz dik acili ucgendir");
 }
 
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
